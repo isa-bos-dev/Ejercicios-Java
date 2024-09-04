@@ -16,6 +16,11 @@ A medida que voy aprendiendo y explorando más temas, seguiré añadiendo nuevos
 - **Descripción:** Este proyecto simula una cafetería donde varios clientes realizan pedidos y un barista los atiende en orden de llegada. Los clientes y el barista son gestionados como hilos, y se utiliza una `BlockingQueue` para la sincronización.
 - **Tema:** Programación Concurrente - Hilos, BlockingQueue, y Sincronización.
 
+### 3. 📋 [Preguntas Técnicas Spring Boot](preguntas-tecnicas/README.md)
+
+- **Descripción:** Esta sección contiene una recopilación de preguntas y respuestas técnicas sobre diversos temas relacionados con Spring Boot, JPA, Hibernate, y otros conceptos importantes en el desarrollo de aplicaciones Java.
+- **Tema:** Preguntas y Respuestas Técnicas - Spring Boot, JPA, Hibernate, Seguridad, etc.
+
 ---
 
 ## 🚀 Próximos Proyectos
